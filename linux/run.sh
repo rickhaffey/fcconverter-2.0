@@ -1,2 +1,2 @@
-cd..
+cd ..
 python3 fcconverter.py
